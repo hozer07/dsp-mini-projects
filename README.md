@@ -1,7 +1,7 @@
 # dsp-mini-projects
 1 - Pulse-code Modulation (PCM)
 
-A short demo of PCM with u-Law companding. Run
+A short demo of PCM with u-Law companding. Run pcm_main.m
 
 2 - Differential PCM (DPCM)
 

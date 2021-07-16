@@ -19,3 +19,7 @@ Demo for LPC speech compression.
 5 - FIR Filter Design by Frequency Domain Sampling
 
 A demo for this type of filter design.
+
+6 - System identification by LMS
+
+A demo of LMS algorithm for identifying system impulse response.
